@@ -1,12 +1,12 @@
 #  <h1>Hi there, I'm <a href="https://Aman">Aman</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 
 #### 📫 Reach me: 
-- [Email](mailto:er.amangoswami@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/aman-goswami-62048a250)
+- [Email](mailto:anamika0807dixit@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/anamika-dixit08/)
 - [Personal Webiste]() In Making :)
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎Aman Goswami | 💻 Full Stack Web Developer | 🛸 India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎Anamika Dixit | 💻 Full Stack Web Developer | 🛸 India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
 I'm a third year student at Noida Institute of Engineering and Technology pursuing B TECH in Computer Science Engeenering.
@@ -16,7 +16,7 @@ I’m interested in solving challenging coding problems and learning new technol
 ### - Languages and Tools...
 
 <p align="center">
- <img  alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+
  <img  alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 <img  alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
